@@ -1,0 +1,19 @@
+img {
+    width: 100%;
+}
+.book {
+    margin: 10px;
+    width: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}

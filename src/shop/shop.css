@@ -1,0 +1,13 @@
+body {
+    color: white;
+
+}
+.cart {
+    margin-top: 15px;
+}
+.addCartBtn {
+    margin-left: 10px;
+}
+.removeCartBtn {
+    margin-left: 10px;
+}

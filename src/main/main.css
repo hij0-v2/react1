@@ -1,0 +1,16 @@
+li {
+    display:flex;
+    margin-right: 30px;
+}
+a{
+    font-size: 250%;
+    text-decoration: none;
+    color:white;
+}
+ul {
+    display:flex;
+    justify-content:center;
+    text-decoration: none;
+    flex-wrap: wrap;
+    background:rgba(0, 0, 0, 0.63);
+}
